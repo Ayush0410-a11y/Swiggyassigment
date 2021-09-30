@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-30T11:46:53 IST" name="Default suite" finished-at="2021-09-30T11:47:39 IST" duration-ms="45916">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.swiggy.runnerfiles.TestRunner@3b0fe47a]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2021-09-30T11:46:53 IST" name="Default test" finished-at="2021-09-30T11:47:39 IST" duration-ms="45916">
+      <class name="com.swiggy.runnerfiles.TestRunner">
+        <test-method is-config="true" signature="extentreportStart()[pri:0, instance:com.swiggy.runnerfiles.TestRunner@3b0fe47a]" started-at="2021-09-30T11:46:53 IST" name="extentreportStart" finished-at="2021-09-30T11:46:53 IST" duration-ms="230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentreportStart -->
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:com.swiggy.runnerfiles.TestRunner@3b0fe47a]" started-at="2021-09-30T11:46:53 IST" name="setUpClass" finished-at="2021-09-30T11:46:54 IST" duration-ms="599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.swiggy.runnerfiles.TestRunner@3b0fe47a]" started-at="2021-09-30T11:46:54 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-09-30T11:47:00 IST" duration-ms="5659" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Login Button Validation"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Swiggy DashBoard Validation]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.swiggy.runnerfiles.TestRunner@3b0fe47a]" started-at="2021-09-30T11:47:00 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-09-30T11:47:04 IST" duration-ms="3971" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["SignUp Button Validation"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Swiggy DashBoard Validation]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.swiggy.runnerfiles.TestRunner@3b0fe47a]" started-at="2021-09-30T11:47:04 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-09-30T11:47:07 IST" duration-ms="3834" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["findFood Button Validation without selecting location"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Swiggy DashBoard Validation]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.swiggy.runnerfiles.TestRunner@3b0fe47a]" started-at="2021-09-30T11:47:07 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-09-30T11:47:16 IST" duration-ms="9062" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["locateMe Button Validation without selecting location"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Swiggy DashBoard Validation]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.swiggy.runnerfiles.TestRunner@3b0fe47a]" started-at="2021-09-30T11:47:16 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-09-30T11:47:29 IST" duration-ms="12224" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["signin in swiggy application with register mob number"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[SignIn in swiggy application]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.swiggy.runnerfiles.TestRunner@3b0fe47a]" started-at="2021-09-30T11:47:29 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-09-30T11:47:39 IST" duration-ms="10460" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["signin in swiggy application with un-register mob number"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[SignIn in swiggy application]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.swiggy.runnerfiles.TestRunner@3b0fe47a]" started-at="2021-09-30T11:47:39 IST" name="tearDownClass" finished-at="2021-09-30T11:47:39 IST" duration-ms="57" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+        <test-method is-config="true" signature="extentreportflush()[pri:0, instance:com.swiggy.runnerfiles.TestRunner@3b0fe47a]" started-at="2021-09-30T11:47:39 IST" name="extentreportflush" finished-at="2021-09-30T11:47:40 IST" duration-ms="321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentreportflush -->
+      </class> <!-- com.swiggy.runnerfiles.TestRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

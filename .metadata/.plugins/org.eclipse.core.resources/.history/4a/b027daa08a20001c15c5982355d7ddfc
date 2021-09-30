@@ -1,0 +1,17 @@
+package com.swiggy.stepdefination;
+
+import com.swiggy.pageobject.DashBoard;
+
+import io.cucumber.java.en.Then;
+
+public class DashpageStepdef {
+	
+	DashBoard sDashboard = new DashBoard(Hooks.driver);
+	
+	@Then("user click on login button")
+	public void user_click_on_login_button() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
+
+}

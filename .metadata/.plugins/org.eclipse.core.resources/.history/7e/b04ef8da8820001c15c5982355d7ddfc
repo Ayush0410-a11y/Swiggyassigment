@@ -1,0 +1,63 @@
+package com.swiggy.stepdefination;
+
+import java.io.IOException;
+
+import com.swiggy.pageobject.Homepage;
+
+import io.cucumber.java.en.And;
+import io.cucumber.java.en.Given;
+import io.cucumber.java.en.Then;
+import io.cucumber.java.en.When;
+
+public class HomepageStepDef {
+	
+	Homepage hpage = new Homepage(Hooks.driver);
+	
+	@Given("user lauanch the swiggy application {string}")
+	public void user_lauanch_the_swiggy_application(String string) throws IOException {
+	    System.out.println("----swiggy page loaded");
+	    hpage.getUrl();
+	}
+
+	@And("user valiadtes the page tittle")
+	public void user_valiadtes_the_page_tittle() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
+
+	@When("user click on locateMe button")
+	public void user_click_on_locate_me_button() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
+
+	@When("user clicks on sigin button")
+	public void user_clicks_on_sigin_button() {
+		hpage.signInButon();
+	}
+
+	@Then("login page should be displayed")
+	public void login_page_should_be_displayed() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
+
+	@Then("user enters the phone number")
+	public void user_enters_the_phone_number() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
+
+	@Then("user click on loginbutton")
+	public void user_click_on_loginbutton() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
+
+	@Then("enter otp page will open")
+	public void enter_otp_page_will_open() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
+
+}

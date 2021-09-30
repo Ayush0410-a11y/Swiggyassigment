@@ -1,0 +1,1372 @@
+2021-09-28 22:48:18,609 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-09-28 22:50:10,077 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-09-28 23:07:28,131 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-09-28 23:08:04,932 [Worker-3: Creating project "Swiggy"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Swiggy:Swiggy:0.0.1-SNAPSHOT @ C:\Users\HELLO\eclipse-workspace\Swiggy\pom.xml.
+2021-09-28 23:08:05,426 [Worker-3: Creating project "Swiggy"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Swiggy/src/main/java
+2021-09-28 23:08:05,429 [Worker-3: Creating project "Swiggy"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Swiggy/src/main/resources
+2021-09-28 23:08:05,430 [Worker-3: Creating project "Swiggy"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Swiggy/src/test/java
+2021-09-28 23:08:05,430 [Worker-3: Creating project "Swiggy"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Swiggy/src/test/resources
+2021-09-28 23:08:07,125 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 23:08:07,132 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:08:07,134 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 23:08:07,136 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:08:40,891 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 23:08:40,916 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:08:40,918 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 23:08:40,921 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:10:08,638 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 23:10:08,641 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:10:08,643 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 23:10:08,647 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-28 23:10:09,730 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 23:10:09,733 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:10:09,735 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 23:10:09,737 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:10:27,779 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 23:10:27,783 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:10:27,785 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 23:10:27,788 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-28 23:10:59,620 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 23:10:59,621 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:10:59,622 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 23:10:59,625 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:11:28,339 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 23:11:28,340 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:11:28,342 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 23:11:28,343 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-09-28 23:11:55,454 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 23:11:55,456 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:11:55,459 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 23:11:55,460 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-28 23:12:17,150 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 23:12:17,152 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:12:17,155 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 23:12:17,157 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-28 23:12:23,847 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 23:12:23,850 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:12:23,852 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 23:12:23,853 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-09-28 23:12:58,850 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 23:12:58,852 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:12:58,856 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 23:12:58,858 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:13:15,465 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 23:13:15,467 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:13:15,470 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 23:13:15,474 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-28 23:13:19,140 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 23:13:19,141 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:13:19,143 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 23:13:19,145 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-28 23:13:39,376 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 23:13:39,378 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:13:39,380 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 23:13:39,382 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:14:11,404 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 23:14:11,410 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:14:11,412 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 23:14:11,414 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:14:29,735 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 23:14:29,738 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:14:29,741 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 23:14:29,743 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:14:42,966 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 23:14:42,969 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:14:42,971 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 23:14:42,974 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:14:55,331 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 23:14:55,334 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:14:55,336 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 23:14:55,337 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:15:34,138 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 23:15:34,140 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:15:34,141 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 23:15:34,143 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:16:11,096 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 23:16:11,098 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:16:11,100 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 23:16:11,101 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:16:35,893 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 23:16:35,895 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:16:35,898 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 23:16:35,899 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:16:50,305 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 23:16:50,309 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:16:50,311 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 23:16:50,313 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:18:26,559 [Worker-23: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Swiggy:Swiggy:0.0.1-SNAPSHOT @ C:\Users\HELLO\eclipse-workspace\Swiggy\pom.xml.
+2021-09-28 23:18:29,695 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:18:29,697 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:18:29,699 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:18:29,699 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:18:31,541 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:18:31,543 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:18:31,546 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:18:31,547 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2021-09-28 23:20:37,451 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:20:37,452 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:20:37,453 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:20:37,453 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-28 23:21:11,020 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:21:11,021 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:21:11,022 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:21:11,022 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-28 23:21:41,742 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:21:41,742 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:21:41,743 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:21:41,744 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-28 23:23:05,840 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:23:05,841 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:23:05,842 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:23:05,843 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:23:23,536 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:23:23,536 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:23:23,540 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:23:23,541 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-28 23:23:28,324 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:23:28,324 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:23:28,327 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:23:28,327 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-28 23:24:36,839 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:24:36,839 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:24:36,840 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:24:36,840 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-28 23:25:58,825 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:25:58,826 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:25:58,827 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:25:58,828 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-28 23:27:02,105 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:27:02,105 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:27:02,107 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:27:02,107 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:27:31,059 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:27:31,059 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:27:31,060 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:27:31,060 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:27:58,807 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:27:58,807 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:27:58,809 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:27:58,810 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-09-28 23:28:15,398 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:28:15,400 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:28:15,403 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:28:15,407 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-09-28 23:28:31,758 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:28:31,759 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:28:31,761 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:28:31,763 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-09-28 23:28:56,019 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:28:56,020 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:28:56,023 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:28:56,028 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-09-28 23:29:24,026 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:29:24,027 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:29:24,029 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:29:24,031 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-09-28 23:29:37,098 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:29:37,099 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:29:37,100 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:29:37,102 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-09-28 23:30:05,588 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:30:05,589 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:30:05,591 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:30:05,596 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-09-28 23:30:16,666 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:30:16,667 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:30:16,671 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:30:16,672 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:30:23,768 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:30:23,768 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:30:23,769 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:30:23,769 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:32:38,884 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:32:38,885 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:32:38,887 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:32:38,888 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:35:54,420 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:35:54,421 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:35:54,422 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:35:54,423 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:36:22,350 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:36:22,351 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:36:22,353 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:36:22,353 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-28 23:37:14,526 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:37:14,527 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:37:14,528 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:37:14,529 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-28 23:40:32,565 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:40:32,566 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:40:32,568 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:40:32,569 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-28 23:44:09,630 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:44:09,631 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:44:09,634 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:44:09,636 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-28 23:44:58,169 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:44:58,170 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:44:58,171 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:44:58,172 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-28 23:45:26,116 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:45:26,117 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:45:26,118 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:45:26,118 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:45:41,329 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:45:41,329 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:45:41,330 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:45:41,330 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-28 23:46:22,024 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:46:22,025 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:46:22,028 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:46:22,031 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-09-28 23:47:07,177 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:47:07,178 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:47:07,179 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:47:07,181 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-09-28 23:47:35,399 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:47:35,400 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:47:35,402 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:47:35,403 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-09-28 23:48:06,261 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:48:06,261 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:48:06,262 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:48:06,264 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-09-28 23:48:32,741 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:48:32,742 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:48:32,743 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:48:32,744 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-09-28 23:49:08,126 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:49:08,126 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:49:08,128 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:49:08,129 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-09-28 23:50:03,299 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:50:03,300 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:50:03,301 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:50:03,303 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-09-28 23:50:42,971 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:50:42,972 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:50:42,974 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:50:42,975 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-09-28 23:51:10,457 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:51:10,458 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:51:10,459 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:51:10,460 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-09-28 23:51:43,379 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:51:43,380 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:51:43,382 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:51:43,383 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-09-28 23:52:38,138 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:52:38,139 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:52:38,140 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:52:38,141 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-09-28 23:52:59,324 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:52:59,325 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:52:59,327 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:52:59,328 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-09-28 23:53:35,297 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:53:35,298 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:53:35,299 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:53:35,300 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-09-28 23:54:32,718 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:54:32,718 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:54:32,719 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:54:32,720 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-28 23:55:39,174 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:55:39,174 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:55:39,175 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:55:39,175 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-28 23:56:19,942 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:56:19,943 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:56:19,944 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:56:19,945 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-28 23:58:42,205 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:58:42,205 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-28 23:58:42,207 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-28 23:58:42,208 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-09-29 00:00:04,757 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 00:00:04,758 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 00:00:04,759 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 00:00:04,761 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-09-29 00:01:52,181 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 00:01:52,182 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 00:01:52,183 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 00:01:52,184 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-09-29 00:03:27,061 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 00:03:27,061 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 00:03:27,063 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 00:03:27,064 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-09-29 00:03:51,951 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 00:03:51,952 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 00:03:51,954 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 00:03:51,955 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-09-29 00:06:15,709 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 00:06:15,710 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 00:06:15,712 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 00:06:15,714 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-09-29 00:07:52,801 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 00:07:52,802 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 00:07:52,803 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 00:07:52,803 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-29 00:08:02,628 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 00:08:02,629 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 00:08:02,629 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 00:08:02,630 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-29 00:10:15,455 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 00:10:15,457 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 00:10:15,458 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 00:10:15,458 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-29 00:14:43,170 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 00:14:43,171 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 00:14:43,172 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 00:14:43,175 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-09-29 00:17:56,038 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 00:17:56,039 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 00:17:56,040 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 00:17:56,041 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-09-29 00:20:19,063 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 00:20:19,063 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 00:20:19,064 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 00:20:19,066 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-09-29 00:21:32,602 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 00:21:32,602 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 00:21:32,603 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 00:21:32,603 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 10:32:57,118 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-09-29 10:37:11,254 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 10:37:11,264 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 10:37:11,271 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 10:37:11,272 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-09-29 10:37:28,378 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 10:37:28,381 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 10:37:28,384 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 10:37:28,388 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-09-29 10:41:18,669 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 10:41:18,670 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 10:41:18,673 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 10:41:18,675 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-09-29 10:42:22,249 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 10:42:22,249 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 10:42:22,251 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 10:42:22,252 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-09-29 10:42:50,151 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 10:42:50,152 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 10:42:50,154 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 10:42:50,157 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-09-29 10:44:24,399 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 10:44:24,400 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 10:44:24,403 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 10:44:24,404 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-09-29 10:45:09,706 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 10:45:09,707 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 10:45:09,710 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 10:45:09,712 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-09-29 10:46:32,304 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 10:46:32,304 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 10:46:32,308 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 10:46:32,308 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 12:18:09,008 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 12:18:09,011 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-29 12:18:09,019 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 12:18:09,020 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 12:18:29,760 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 12:18:29,762 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-29 12:18:29,770 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 12:18:29,770 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 12:19:30,581 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 12:19:30,581 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-29 12:19:30,584 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 12:19:30,585 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 12:19:55,434 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 12:19:55,435 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-29 12:19:55,438 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 12:19:55,438 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 12:20:31,564 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 12:20:31,565 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-29 12:20:31,569 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 12:20:31,569 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 12:22:47,794 [Worker-31: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Swiggy:Swiggy:0.0.1-SNAPSHOT @ C:\Users\HELLO\eclipse-workspace\Swiggy\pom.xml.
+2021-09-29 12:22:49,149 [Worker-31: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.14.1/log4j-core-2.14.1.jar
+2021-09-29 12:22:50,532 [Worker-31: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.14.1/log4j-core-2.14.1.jar
+2021-09-29 12:22:51,224 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 12:22:51,227 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 12:22:51,229 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 12:22:51,229 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 12:22:52,676 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 12:22:52,677 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-29 12:22:52,688 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 12:22:52,689 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-09-29 12:22:52,910 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.14.1/log4j-api-2.14.1-sources.jar
+2021-09-29 12:22:53,492 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.14.1/log4j-api-2.14.1-sources.jar
+2021-09-29 12:22:53,556 [Worker-26: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.logging.log4j:log4j-api:2.14.1
+2021-09-29 12:22:54,120 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.14.1/log4j-core-2.14.1-sources.jar
+2021-09-29 12:22:55,314 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.14.1/log4j-core-2.14.1-sources.jar
+2021-09-29 12:22:55,371 [Worker-26: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.logging.log4j:log4j-core:2.14.1
+2021-09-29 12:22:55,749 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 12:22:55,749 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 12:22:55,751 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 12:22:55,752 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 13:02:40,247 [Worker-42: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 13:02:40,248 [Worker-42: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 13:02:40,249 [Worker-42: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 13:02:40,251 [Worker-42: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-09-29 14:03:50,748 [Worker-61: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 14:03:50,749 [Worker-61: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 14:03:50,750 [Worker-61: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 14:03:50,752 [Worker-61: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-09-29 14:13:12,097 [Worker-68: Launching TestRunner] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Swiggy:Swiggy:0.0.1-SNAPSHOT @ C:\Users\HELLO\eclipse-workspace\Swiggy\pom.xml.
+2021-09-29 14:13:12,863 [Worker-68: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 14:13:12,866 [Worker-68: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 14:13:12,869 [Worker-68: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 14:13:12,870 [Worker-68: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 14:52:01,864 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2021-09-29 14:52:15,690 [Worker-77: Launching Swiggy] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\HELLO\eclipse-workspace\Swiggy
+2021-09-29 14:52:15,690 [Worker-77: Launching Swiggy] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2021-09-29 14:52:56,131 [Worker-82: Launching Executing install in C__Users_HELLO_eclipse-workspace_Swiggy] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\HELLO\eclipse-workspace\Swiggy
+2021-09-29 14:52:56,131 [Worker-82: Launching Executing install in C__Users_HELLO_eclipse-workspace_Swiggy] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-09-29 14:53:48,824 [Worker-80: Launching Swiggy] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\HELLO\eclipse-workspace\Swiggy
+2021-09-29 14:53:48,824 [Worker-80: Launching Swiggy] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2021-09-29 14:55:03,553 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2021-09-29 14:55:07,690 [Worker-79: Launching Swiggy (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\HELLO\eclipse-workspace\Swiggy
+2021-09-29 14:55:07,690 [Worker-79: Launching Swiggy (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2021-09-29 14:55:07,691 [Worker-79: Launching Swiggy (1)] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2021-09-29 14:55:25,552 [Worker-84: Launching Executing clean in C__Users_HELLO_eclipse-workspace_Swiggy] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\HELLO\eclipse-workspace\Swiggy
+2021-09-29 14:55:25,553 [Worker-84: Launching Executing clean in C__Users_HELLO_eclipse-workspace_Swiggy] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2021-09-29 14:55:51,530 [Worker-83: Launching Executing install in C__Users_HELLO_eclipse-workspace_Swiggy] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\HELLO\eclipse-workspace\Swiggy
+2021-09-29 14:55:51,530 [Worker-83: Launching Executing install in C__Users_HELLO_eclipse-workspace_Swiggy] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-09-29 14:58:52,489 [Worker-82: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-09-29 14:58:53,432 [Worker-82: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.0.0/maven-compiler-plugin-3.0.0.jar
+2021-09-29 14:58:53,617 [Worker-82: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.0.0/maven-compiler-plugin-3.0.0.pom
+2021-09-29 14:58:53,619 [Worker-82: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-compiler-plugin:jar:3.0.0 is missing, no dependency information available
+2021-09-29 14:58:53,626 [Worker-82: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-compiler-plugin:jar:3.0.0 is missing, no dependency information available
+2021-09-29 14:58:53,627 [Worker-82: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Swiggy:Swiggy:0.0.1-SNAPSHOT @ C:\Users\HELLO\eclipse-workspace\Swiggy\pom.xml.
+2021-09-29 14:58:54,164 [Worker-82: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2021-09-29 14:59:19,287 [Worker-85: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-09-29 14:59:19,535 [Worker-85: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Swiggy:Swiggy:0.0.1-SNAPSHOT @ C:\Users\HELLO\eclipse-workspace\Swiggy\pom.xml.
+2021-09-29 14:59:20,057 [Worker-85: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Swiggy/src/main/java
+2021-09-29 14:59:20,057 [Worker-85: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Swiggy/src/main/resources
+2021-09-29 14:59:20,075 [Worker-85: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Swiggy/src/test/java
+2021-09-29 14:59:20,075 [Worker-85: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Swiggy/src/test/resources
+2021-09-29 14:59:20,370 [Worker-85: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2021-09-29 14:59:47,944 [Worker-90: Launching Swiggy (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\HELLO\eclipse-workspace\Swiggy
+2021-09-29 14:59:47,944 [Worker-90: Launching Swiggy (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-09-29 15:00:57,982 [Worker-82: Launching DashBoard.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 15:00:57,983 [Worker-82: Launching DashBoard.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-29 15:00:58,001 [Worker-82: Launching DashBoard.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 15:00:58,002 [Worker-82: Launching DashBoard.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-09-29 15:09:02,727 [Worker-88: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-09-29 15:09:03,040 [Worker-88: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Swiggy:Swiggy:0.0.1-SNAPSHOT @ C:\Users\HELLO\eclipse-workspace\Swiggy\pom.xml.
+2021-09-29 15:09:03,586 [Worker-88: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Swiggy/src/main/java
+2021-09-29 15:09:03,587 [Worker-88: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Swiggy/src/main/resources
+2021-09-29 15:09:03,588 [Worker-88: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Swiggy/src/test/java
+2021-09-29 15:09:03,588 [Worker-88: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Swiggy/src/test/resources
+2021-09-29 15:09:03,951 [Worker-88: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2021-09-29 15:16:11,567 [Worker-97: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 15:16:11,568 [Worker-97: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-29 15:16:11,583 [Worker-97: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 15:16:11,584 [Worker-97: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-09-29 15:18:56,963 [Worker-82: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 15:18:56,965 [Worker-82: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-09-29 15:18:56,971 [Worker-82: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 15:18:56,971 [Worker-82: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 15:21:05,548 [Worker-82: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 15:21:05,549 [Worker-82: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 15:21:05,551 [Worker-82: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 15:21:05,552 [Worker-82: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-09-29 15:21:39,458 [Worker-82: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 15:21:39,459 [Worker-82: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-29 15:21:39,463 [Worker-82: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 15:21:39,464 [Worker-82: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-09-29 15:23:07,019 [Worker-82: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 15:23:07,020 [Worker-82: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 15:23:07,021 [Worker-82: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 15:23:07,022 [Worker-82: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-09-29 15:25:33,304 [Worker-102: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 15:25:33,305 [Worker-102: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 15:25:33,307 [Worker-102: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 15:25:33,308 [Worker-102: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-09-29 15:35:18,934 [Worker-104: Launching TestRunner] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Swiggy:Swiggy:0.0.1-SNAPSHOT @ C:\Users\HELLO\eclipse-workspace\Swiggy\pom.xml.
+2021-09-29 15:35:19,604 [Worker-104: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 15:35:19,609 [Worker-104: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 15:35:19,614 [Worker-104: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 15:35:19,615 [Worker-104: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 15:37:57,314 [Worker-112: Launching TestRunner] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Swiggy:Swiggy:0.0.1-SNAPSHOT @ C:\Users\HELLO\eclipse-workspace\Swiggy\pom.xml.
+2021-09-29 15:37:57,858 [Worker-112: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 15:37:57,862 [Worker-112: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 15:37:57,864 [Worker-112: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 15:37:57,864 [Worker-112: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 15:53:50,902 [Worker-119: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 15:53:50,903 [Worker-119: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 15:53:50,904 [Worker-119: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 15:53:50,906 [Worker-119: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-09-29 15:54:59,998 [Worker-120: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 15:54:59,998 [Worker-120: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 15:54:59,999 [Worker-120: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 15:55:00,001 [Worker-120: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-09-29 16:00:13,824 [Worker-125: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 16:00:13,825 [Worker-125: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-09-29 16:00:13,847 [Worker-125: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 16:00:13,848 [Worker-125: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 17:12:57,779 [Worker-130: Launching TestRunner] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Swiggy:Swiggy:0.0.1-SNAPSHOT @ C:\Users\HELLO\eclipse-workspace\Swiggy\pom.xml.
+2021-09-29 17:13:02,508 [Worker-130: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 17:13:02,508 [Worker-130: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HELLO\eclipse-workspace\Swiggy\Swiggy
+2021-09-29 17:13:02,509 [Worker-130: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 17:13:02,511 [Worker-130: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 17:35:56,988 [Worker-141: Launching TestRunner] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Swiggy:Swiggy:0.0.1-SNAPSHOT @ C:\Users\HELLO\eclipse-workspace\Swiggy\pom.xml.
+2021-09-29 17:35:57,743 [Worker-141: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 17:35:57,744 [Worker-141: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HELLO\eclipse-workspace\Swiggy\Swiggy
+2021-09-29 17:35:57,746 [Worker-141: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 17:35:57,749 [Worker-141: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-09-29 17:35:59,389 [Worker-142: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/aventstack/extentreports/3.1.2/extentreports-3.1.2-sources.jar
+2021-09-29 17:35:59,762 [Worker-142: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/aventstack/extentreports/3.1.2/extentreports-3.1.2-sources.jar
+2021-09-29 17:36:00,016 [Worker-142: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.aventstack:extentreports:3.1.2
+2021-09-29 17:36:00,581 [Worker-142: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver/3.3.0/mongodb-driver-3.3.0-sources.jar
+2021-09-29 17:36:01,281 [Worker-142: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver/3.3.0/mongodb-driver-3.3.0-sources.jar
+2021-09-29 17:36:01,377 [Worker-142: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mongodb:mongodb-driver:3.3.0
+2021-09-29 17:36:08,967 [Worker-142: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mongodb/bson/3.3.0/bson-3.3.0-sources.jar
+2021-09-29 17:36:09,955 [Worker-142: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mongodb/bson/3.3.0/bson-3.3.0-sources.jar
+2021-09-29 17:36:10,016 [Worker-142: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mongodb:bson:3.3.0
+2021-09-29 17:36:10,609 [Worker-142: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-core/3.3.0/mongodb-driver-core-3.3.0-sources.jar
+2021-09-29 17:36:11,486 [Worker-142: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-core/3.3.0/mongodb-driver-core-3.3.0-sources.jar
+2021-09-29 17:36:11,597 [Worker-142: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mongodb:mongodb-driver-core:3.3.0
+2021-09-29 17:36:12,160 [Worker-142: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2-sources.jar
+2021-09-29 17:36:13,139 [Worker-142: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2-sources.jar
+2021-09-29 17:36:13,246 [Worker-142: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents:httpclient:4.5.2
+2021-09-29 17:36:13,808 [Worker-142: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.4/httpcore-4.4.4-sources.jar
+2021-09-29 17:36:14,567 [Worker-142: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.4/httpcore-4.4.4-sources.jar
+2021-09-29 17:36:14,627 [Worker-142: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents:httpcore:4.4.4
+2021-09-29 17:36:15,187 [Worker-142: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar
+2021-09-29 17:36:15,527 [Worker-142: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar
+2021-09-29 17:36:15,735 [Worker-142: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-logging:commons-logging:1.2
+2021-09-29 17:36:16,296 [Worker-142: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpmime/4.5.2/httpmime-4.5.2-sources.jar
+2021-09-29 17:36:16,705 [Worker-142: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpmime/4.5.2/httpmime-4.5.2-sources.jar
+2021-09-29 17:36:16,932 [Worker-142: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents:httpmime:4.5.2
+2021-09-29 17:36:17,511 [Worker-142: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jsoup/jsoup/1.9.2/jsoup-1.9.2-sources.jar
+2021-09-29 17:36:17,952 [Worker-142: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jsoup/jsoup/1.9.2/jsoup-1.9.2-sources.jar
+2021-09-29 17:36:18,049 [Worker-142: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jsoup:jsoup:1.9.2
+2021-09-29 17:36:18,585 [Worker-142: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.0/gson-2.8.0-sources.jar
+2021-09-29 17:36:18,754 [Worker-143: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 17:36:18,754 [Worker-143: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HELLO\eclipse-workspace\Swiggy\Swiggy
+2021-09-29 17:36:18,756 [Worker-143: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 17:36:18,757 [Worker-143: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-09-29 17:36:19,017 [Worker-142: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.0/gson-2.8.0-sources.jar
+2021-09-29 17:36:19,111 [Worker-142: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.code.gson:gson:2.8.0
+2021-09-29 17:37:13,026 [Worker-139: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 17:37:13,026 [Worker-139: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HELLO\eclipse-workspace\Swiggy\Swiggy
+2021-09-29 17:37:13,029 [Worker-139: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 17:37:13,030 [Worker-139: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-09-29 17:40:36,161 [Worker-140: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-09-29 17:40:36,845 [Worker-140: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Swiggy:Swiggy:0.0.1-SNAPSHOT @ C:\Users\HELLO\eclipse-workspace\Swiggy\pom.xml.
+2021-09-29 17:40:39,102 [Worker-141: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.12/junit-4.12-sources.jar
+2021-09-29 17:40:39,301 [Worker-140: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Swiggy/src/main/java
+2021-09-29 17:40:39,301 [Worker-140: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Swiggy/src/main/resources
+2021-09-29 17:40:39,302 [Worker-140: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Swiggy/src/test/java
+2021-09-29 17:40:39,302 [Worker-140: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Swiggy/src/test/resources
+2021-09-29 17:40:39,458 [Worker-140: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2021-09-29 17:40:39,586 [Worker-141: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.12/junit-4.12-sources.jar
+2021-09-29 17:40:39,768 [Worker-141: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:4.12
+2021-09-29 17:40:40,360 [Worker-141: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-core/4.4.0/cucumber-core-4.4.0-sources.jar
+2021-09-29 17:40:41,150 [Worker-141: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-core/4.4.0/cucumber-core-4.4.0-sources.jar
+2021-09-29 17:40:41,288 [Worker-141: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.cucumber:cucumber-core:4.4.0
+2021-09-29 17:40:41,841 [Worker-141: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/tag-expressions/1.1.1/tag-expressions-1.1.1-sources.jar
+2021-09-29 17:40:42,140 [Worker-141: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/tag-expressions/1.1.1/tag-expressions-1.1.1-sources.jar
+2021-09-29 17:40:42,195 [Worker-141: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.cucumber:tag-expressions:1.1.1
+2021-09-29 17:40:42,752 [Worker-141: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-expressions/7.0.2/cucumber-expressions-7.0.2-sources.jar
+2021-09-29 17:40:43,057 [Worker-141: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-expressions/7.0.2/cucumber-expressions-7.0.2-sources.jar
+2021-09-29 17:40:43,228 [Worker-141: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.cucumber:cucumber-expressions:7.0.2
+2021-09-29 17:40:43,785 [Worker-141: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/datatable/1.1.14/datatable-1.1.14-sources.jar
+2021-09-29 17:40:44,066 [Worker-141: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/datatable/1.1.14/datatable-1.1.14-sources.jar
+2021-09-29 17:40:44,228 [Worker-141: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.cucumber:datatable:1.1.14
+2021-09-29 17:40:44,796 [Worker-141: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/datatable-dependencies/1.1.14/datatable-dependencies-1.1.14-sources.jar
+2021-09-29 17:40:46,209 [Worker-141: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/datatable-dependencies/1.1.14/datatable-dependencies-1.1.14-sources.jar
+2021-09-29 17:40:46,271 [Worker-141: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.cucumber:datatable-dependencies:1.1.14
+2021-09-29 17:40:46,824 [Worker-141: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-java/4.4.0/cucumber-java-4.4.0-sources.jar
+2021-09-29 17:40:47,636 [Worker-141: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-java/4.4.0/cucumber-java-4.4.0-sources.jar
+2021-09-29 17:40:47,699 [Worker-141: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.cucumber:cucumber-java:4.4.0
+2021-09-29 17:40:48,251 [Worker-141: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-junit/4.4.0/cucumber-junit-4.4.0-sources.jar
+2021-09-29 17:40:48,465 [Worker-141: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-junit/4.4.0/cucumber-junit-4.4.0-sources.jar
+2021-09-29 17:40:48,613 [Worker-141: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.cucumber:cucumber-junit:4.4.0
+2021-09-29 17:40:49,177 [Worker-141: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-jvm-deps/1.0.6/cucumber-jvm-deps-1.0.6-sources.jar
+2021-09-29 17:40:49,418 [Worker-141: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-jvm-deps/1.0.6/cucumber-jvm-deps-1.0.6-sources.jar
+2021-09-29 17:40:49,487 [Worker-141: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.cucumber:cucumber-jvm-deps:1.0.6
+2021-09-29 17:40:50,068 [Worker-141: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/masterthought/cucumber-reporting/4.7.0/cucumber-reporting-4.7.0-sources.jar
+2021-09-29 17:40:51,073 [Worker-141: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/masterthought/cucumber-reporting/4.7.0/cucumber-reporting-4.7.0-sources.jar
+2021-09-29 17:40:51,228 [Worker-141: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.masterthought:cucumber-reporting:4.7.0
+2021-09-29 17:40:51,807 [Worker-141: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.9.8/jackson-databind-2.9.8-sources.jar
+2021-09-29 17:40:53,016 [Worker-141: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.9.8/jackson-databind-2.9.8-sources.jar
+2021-09-29 17:40:53,116 [Worker-141: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-databind:2.9.8
+2021-09-29 17:40:53,666 [Worker-141: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.9.8/jackson-core-2.9.8-sources.jar
+2021-09-29 17:40:54,445 [Worker-141: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.9.8/jackson-core-2.9.8-sources.jar
+2021-09-29 17:40:54,515 [Worker-141: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-core:2.9.8
+2021-09-29 17:40:55,074 [Worker-141: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1-sources.jar
+2021-09-29 17:40:56,053 [Worker-141: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1-sources.jar
+2021-09-29 17:40:56,223 [Worker-141: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-collections:commons-collections:3.2.1
+2021-09-29 17:40:56,784 [Worker-141: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/joda-time/joda-time/2.10.1/joda-time-2.10.1-sources.jar
+2021-09-29 17:40:57,874 [Worker-141: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/joda-time/joda-time/2.10.1/joda-time-2.10.1-sources.jar
+2021-09-29 17:40:58,036 [Worker-141: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for joda-time:joda-time:2.10.1
+2021-09-29 17:40:58,724 [Worker-141: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.1.1/plexus-utils-3.1.1-sources.jar
+2021-09-29 17:40:59,245 [Worker-141: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.1.1/plexus-utils-3.1.1-sources.jar
+2021-09-29 17:40:59,425 [Worker-141: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.plexus:plexus-utils:3.1.1
+2021-09-29 17:40:59,984 [Worker-141: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jsoup/jsoup/1.11.3/jsoup-1.11.3-sources.jar
+2021-09-29 17:41:00,466 [Worker-141: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jsoup/jsoup/1.11.3/jsoup-1.11.3-sources.jar
+2021-09-29 17:41:00,532 [Worker-141: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jsoup:jsoup:1.11.3
+2021-09-29 17:41:01,366 [Worker-141: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/googlecode/owasp-java-html-sanitizer/owasp-java-html-sanitizer/20190325.1/owasp-java-html-sanitizer-20190325.1-sources.jar
+2021-09-29 17:41:01,807 [Worker-141: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/googlecode/owasp-java-html-sanitizer/owasp-java-html-sanitizer/20190325.1/owasp-java-html-sanitizer-20190325.1-sources.jar
+2021-09-29 17:41:01,908 [Worker-141: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.googlecode.owasp-java-html-sanitizer:owasp-java-html-sanitizer:20190325.1
+2021-09-29 17:41:02,482 [Worker-141: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/2.1/hamcrest-core-2.1-sources.jar
+2021-09-29 17:41:02,675 [Worker-141: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/2.1/hamcrest-core-2.1-sources.jar
+2021-09-29 17:41:02,766 [Worker-141: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hamcrest:hamcrest-core:2.1
+2021-09-29 17:41:03,312 [Worker-141: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest/2.1/hamcrest-2.1-sources.jar
+2021-09-29 17:41:03,657 [Worker-141: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest/2.1/hamcrest-2.1-sources.jar
+2021-09-29 17:41:03,721 [Worker-141: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hamcrest:hamcrest:2.1
+2021-09-29 17:41:04,275 [Worker-141: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/tools/1.7/tools-1.7-sources.jar
+2021-09-29 17:41:04,283 [Worker-141: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for com.sun:tools:1.7
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.sun:tools:jar:sources:1.7
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-09-29 17:41:04,847 [Worker-141: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar
+2021-09-29 17:41:05,696 [Worker-141: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar
+2021-09-29 17:41:05,877 [Worker-141: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for log4j:log4j:1.2.17
+2021-09-29 17:41:06,457 [Worker-141: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/tools/1.7/tools-1.7-javadoc.jar
+2021-09-29 17:41:06,464 [Worker-141: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for com.sun:tools:1.7
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.sun:tools:jar:javadoc:1.7
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-09-29 17:43:00,621 [Worker-145: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-09-29 17:43:00,821 [Worker-145: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Swiggy:Swiggy:0.0.1-SNAPSHOT @ C:\Users\HELLO\eclipse-workspace\Swiggy\pom.xml.
+2021-09-29 17:43:01,199 [Worker-145: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Swiggy/src/main/java
+2021-09-29 17:43:01,199 [Worker-145: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Swiggy/src/main/resources
+2021-09-29 17:43:01,200 [Worker-145: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Swiggy/src/test/java
+2021-09-29 17:43:01,200 [Worker-145: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Swiggy/src/test/resources
+2021-09-29 17:43:01,372 [Worker-145: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2021-09-29 17:43:34,259 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/beust/jcommander/1.72/jcommander-1.72.jar
+2021-09-29 17:43:34,379 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache-extras/beanshell/bsh/2.0b6/bsh-2.0b6.jar
+2021-09-29 17:43:34,379 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/testng/testng/6.14.3/testng-6.14.3.jar
+2021-09-29 17:43:35,062 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/beust/jcommander/1.72/jcommander-1.72.jar
+2021-09-29 17:43:35,438 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache-extras/beanshell/bsh/2.0b6/bsh-2.0b6.jar
+2021-09-29 17:43:35,606 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/testng/testng/6.14.3/testng-6.14.3.jar
+2021-09-29 17:45:55,747 [Worker-146: Launching TestRunner] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Swiggy:Swiggy:0.0.1-SNAPSHOT @ C:\Users\HELLO\eclipse-workspace\Swiggy\pom.xml.
+2021-09-29 17:45:56,126 [Worker-146: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 17:45:56,127 [Worker-146: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-29 17:45:56,136 [Worker-146: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 17:45:56,136 [Worker-146: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-09-29 17:45:57,774 [Worker-141: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/testng/testng/6.14.3/testng-6.14.3-sources.jar
+2021-09-29 17:45:58,679 [Worker-141: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/testng/testng/6.14.3/testng-6.14.3-sources.jar
+2021-09-29 17:45:58,747 [Worker-141: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.testng:testng:6.14.3
+2021-09-29 17:45:59,643 [Worker-141: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/beust/jcommander/1.72/jcommander-1.72-sources.jar
+2021-09-29 17:46:00,080 [Worker-141: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/beust/jcommander/1.72/jcommander-1.72-sources.jar
+2021-09-29 17:46:00,127 [Worker-141: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.beust:jcommander:1.72
+2021-09-29 17:46:00,891 [Worker-141: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache-extras/beanshell/bsh/2.0b6/bsh-2.0b6-sources.jar
+2021-09-29 17:46:01,806 [Worker-141: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache-extras/beanshell/bsh/2.0b6/bsh-2.0b6-sources.jar
+2021-09-29 17:46:01,862 [Worker-141: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache-extras.beanshell:bsh:2.0b6
+2021-09-29 17:47:38,414 [Worker-146: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-09-29 17:47:38,601 [Worker-146: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Swiggy:Swiggy:0.0.1-SNAPSHOT @ C:\Users\HELLO\eclipse-workspace\Swiggy\pom.xml.
+2021-09-29 17:47:39,042 [Worker-146: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Swiggy/src/main/java
+2021-09-29 17:47:39,043 [Worker-146: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Swiggy/src/test/java
+2021-09-29 17:47:39,044 [Worker-146: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Swiggy/src/test/resources
+2021-09-29 17:47:39,751 [Worker-146: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2021-09-29 17:48:13,274 [Worker-143: Launching TestRunner] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Swiggy:Swiggy:0.0.1-SNAPSHOT @ C:\Users\HELLO\eclipse-workspace\Swiggy\pom.xml.
+2021-09-29 17:48:13,690 [Worker-143: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 17:48:13,690 [Worker-143: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HELLO\eclipse-workspace\Swiggy\Swiggy
+2021-09-29 17:48:13,691 [Worker-143: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 17:48:13,692 [Worker-143: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-09-29 17:52:50,915 [Worker-145: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-09-29 17:52:51,123 [Worker-145: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Swiggy:Swiggy:0.0.1-SNAPSHOT @ C:\Users\HELLO\eclipse-workspace\Swiggy\pom.xml.
+2021-09-29 17:52:51,692 [Worker-145: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Swiggy/src/main/java
+2021-09-29 17:52:51,692 [Worker-145: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Swiggy/src/main/resources
+2021-09-29 17:52:51,693 [Worker-145: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Swiggy/src/test/java
+2021-09-29 17:52:51,693 [Worker-145: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Swiggy/src/test/resources
+2021-09-29 17:52:52,111 [Worker-145: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2021-09-29 18:08:43,602 [Worker-140: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-09-29 18:08:43,780 [Worker-140: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Swiggy:Swiggy:0.0.1-SNAPSHOT @ C:\Users\HELLO\eclipse-workspace\Swiggy\pom.xml.
+2021-09-29 18:08:44,241 [Worker-140: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Swiggy/src/main/java
+2021-09-29 18:08:44,241 [Worker-140: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Swiggy/src/main/resources
+2021-09-29 18:08:44,242 [Worker-140: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Swiggy/src/test/java
+2021-09-29 18:08:44,243 [Worker-140: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Swiggy/src/test/resources
+2021-09-29 18:08:44,547 [Worker-140: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2021-09-29 18:12:40,658 [Worker-148: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.pom
+2021-09-29 18:12:40,834 [Worker-148: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.pom
+2021-09-29 18:12:40,992 [Worker-148: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.5/gson-2.8.5.pom
+2021-09-29 18:12:41,171 [Worker-148: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.5/gson-2.8.5.pom
+2021-09-29 18:12:41,315 [Worker-148: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson-parent/2.8.5/gson-parent-2.8.5.pom
+2021-09-29 18:12:41,485 [Worker-148: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson-parent/2.8.5/gson-parent-2.8.5.pom
+2021-09-29 18:12:41,662 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar
+2021-09-29 18:12:41,818 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar
+2021-09-29 18:12:42,863 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar
+2021-09-29 18:12:43,212 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar
+2021-09-29 18:12:51,287 [Worker-143: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-09-29 18:12:51,460 [Worker-143: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Swiggy:Swiggy:0.0.1-SNAPSHOT @ C:\Users\HELLO\eclipse-workspace\Swiggy\pom.xml.
+2021-09-29 18:12:51,843 [Worker-143: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Swiggy/src/main/java
+2021-09-29 18:12:51,843 [Worker-143: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Swiggy/src/main/resources
+2021-09-29 18:12:51,844 [Worker-143: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Swiggy/src/test/java
+2021-09-29 18:12:51,844 [Worker-143: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Swiggy/src/test/resources
+2021-09-29 18:12:52,434 [Worker-143: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2021-09-29 18:12:53,408 [Worker-148: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/aventstack/extentreports/4.0.9/extentreports-4.0.9-sources.jar
+2021-09-29 18:12:54,672 [Worker-148: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/aventstack/extentreports/4.0.9/extentreports-4.0.9-sources.jar
+2021-09-29 18:12:54,730 [Worker-148: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.aventstack:extentreports:4.0.9
+2021-09-29 18:12:55,299 [Worker-148: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.5/gson-2.8.5-sources.jar
+2021-09-29 18:12:55,752 [Worker-148: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.5/gson-2.8.5-sources.jar
+2021-09-29 18:12:55,841 [Worker-148: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.code.gson:gson:2.8.5
+2021-09-29 18:20:44,588 [Worker-148: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 18:20:44,589 [Worker-148: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-29 18:20:44,597 [Worker-148: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 18:20:44,598 [Worker-148: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-09-29 18:24:39,163 [Worker-142: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 18:24:39,168 [Worker-142: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 18:24:39,169 [Worker-142: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 18:24:39,170 [Worker-142: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 18:43:58,110 [Worker-153: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 18:43:58,112 [Worker-153: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 18:43:58,114 [Worker-153: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 18:43:58,116 [Worker-153: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2021-09-29 18:49:46,235 [Worker-149: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-09-29 18:49:46,487 [Worker-149: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Swiggy:Swiggy:0.0.1-SNAPSHOT @ C:\Users\HELLO\eclipse-workspace\Swiggy\pom.xml.
+2021-09-29 18:49:47,629 [Worker-149: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/messages/maven-metadata.xml
+2021-09-29 18:49:47,935 [Worker-149: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/messages/maven-metadata.xml
+2021-09-29 18:49:48,231 [Worker-149: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/ralfstuckert/pdfbox-layout/pdfbox2-layout/1.0.0/pdfbox2-layout-1.0.0.pom
+2021-09-29 18:49:48,934 [Worker-149: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/com/github/ralfstuckert/pdfbox-layout/pdfbox2-layout/1.0.0/pdfbox2-layout-1.0.0.pom
+2021-09-29 18:49:48,936 [Worker-149: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.ralfstuckert.pdfbox-layout:pdfbox2-layout:jar:1.0.0 is missing, no dependency information available
+2021-09-29 18:49:49,125 [Worker-149: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/ralfstuckert/pdfbox-layout/pdfbox2-layout/1.0.0/pdfbox2-layout-1.0.0.jar
+2021-09-29 18:49:49,244 [Worker-149: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/com/github/ralfstuckert/pdfbox-layout/pdfbox2-layout/1.0.0/pdfbox2-layout-1.0.0.jar
+2021-09-29 18:49:49,747 [Worker-149: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Swiggy/src/main/java
+2021-09-29 18:49:49,747 [Worker-149: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Swiggy/src/main/resources
+2021-09-29 18:49:49,748 [Worker-149: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Swiggy/src/test/java
+2021-09-29 18:49:49,748 [Worker-149: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Swiggy/src/test/resources
+2021-09-29 18:49:50,433 [Worker-149: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2021-09-29 18:49:50,574 [Worker-160: Download sources and javadoc] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.ralfstuckert.pdfbox-layout:pdfbox2-layout:jar:1.0.0 is missing, no dependency information available
+2021-09-29 18:49:51,172 [Worker-160: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/tech/grasshopper/extentreports-cucumber6-adapter/2.6.0/extentreports-cucumber6-adapter-2.6.0-sources.jar
+2021-09-29 18:49:51,376 [Worker-160: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/tech/grasshopper/extentreports-cucumber6-adapter/2.6.0/extentreports-cucumber6-adapter-2.6.0-sources.jar
+2021-09-29 18:49:51,534 [Worker-160: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for tech.grasshopper:extentreports-cucumber6-adapter:2.6.0
+2021-09-29 18:49:52,134 [Worker-160: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/tech/grasshopper/extent-pdf-report/1.5.0/extent-pdf-report-1.5.0-sources.jar
+2021-09-29 18:49:52,427 [Worker-160: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/tech/grasshopper/extent-pdf-report/1.5.0/extent-pdf-report-1.5.0-sources.jar
+2021-09-29 18:49:52,482 [Worker-160: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for tech.grasshopper:extent-pdf-report:1.5.0
+2021-09-29 18:49:53,062 [Worker-160: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/tech/grasshopper/cucumber-pdf-report/1.7.0/cucumber-pdf-report-1.7.0-sources.jar
+2021-09-29 18:49:54,107 [Worker-160: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/tech/grasshopper/cucumber-pdf-report/1.7.0/cucumber-pdf-report-1.7.0-sources.jar
+2021-09-29 18:49:54,163 [Worker-160: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for tech.grasshopper:cucumber-pdf-report:1.7.0
+2021-09-29 18:49:54,730 [Worker-160: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.16/lombok-1.18.16-sources.jar
+2021-09-29 18:49:55,846 [Worker-160: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.16/lombok-1.18.16-sources.jar
+2021-09-29 18:49:55,932 [Worker-160: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.projectlombok:lombok:1.18.16
+2021-09-29 18:49:56,499 [Worker-160: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/knowm/xchart/xchart/3.6.5/xchart-3.6.5-sources.jar
+2021-09-29 18:49:56,986 [Worker-160: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/knowm/xchart/xchart/3.6.5/xchart-3.6.5-sources.jar
+2021-09-29 18:49:57,072 [Worker-160: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.knowm.xchart:xchart:3.6.5
+2021-09-29 18:49:57,633 [Worker-160: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/de/erichseifert/vectorgraphics2d/VectorGraphics2D/0.13/VectorGraphics2D-0.13-sources.jar
+2021-09-29 18:49:57,996 [Worker-160: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/de/erichseifert/vectorgraphics2d/VectorGraphics2D/0.13/VectorGraphics2D-0.13-sources.jar
+2021-09-29 18:49:58,117 [Worker-160: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for de.erichseifert.vectorgraphics2d:VectorGraphics2D:0.13
+2021-09-29 18:49:58,680 [Worker-160: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/madgag/animated-gif-lib/1.4/animated-gif-lib-1.4-sources.jar
+2021-09-29 18:49:58,877 [Worker-160: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/madgag/animated-gif-lib/1.4/animated-gif-lib-1.4-sources.jar
+2021-09-29 18:49:59,019 [Worker-160: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.madgag:animated-gif-lib:1.4
+2021-09-29 18:49:59,570 [Worker-160: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/vandeseer/easytable/0.7.1/easytable-0.7.1-sources.jar
+2021-09-29 18:49:59,907 [Worker-160: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/vandeseer/easytable/0.7.1/easytable-0.7.1-sources.jar
+2021-09-29 18:50:00,102 [Worker-160: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.vandeseer:easytable:0.7.1
+2021-09-29 18:50:00,665 [Worker-160: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/ralfstuckert/pdfbox-layout/pdfbox2-layout/1.0.0/pdfbox2-layout-1.0.0-sources.jar
+2021-09-29 18:50:00,672 [Worker-160: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for com.github.ralfstuckert.pdfbox-layout:pdfbox2-layout:1.0.0
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.github.ralfstuckert.pdfbox-layout:pdfbox2-layout:jar:sources:1.0.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-09-29 18:50:01,271 [Worker-160: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.27/snakeyaml-1.27-sources.jar
+2021-09-29 18:50:01,766 [Worker-160: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.27/snakeyaml-1.27-sources.jar
+2021-09-29 18:50:01,841 [Worker-160: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.yaml:snakeyaml:1.27
+2021-09-29 18:50:02,427 [Worker-160: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/aventstack/klov-reporter/5.0.5/klov-reporter-5.0.5-sources.jar
+2021-09-29 18:50:02,714 [Worker-160: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/aventstack/klov-reporter/5.0.5/klov-reporter-5.0.5-sources.jar
+2021-09-29 18:50:02,816 [Worker-160: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.aventstack:klov-reporter:5.0.5
+2021-09-29 18:50:03,383 [Worker-160: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/ralfstuckert/pdfbox-layout/pdfbox2-layout/1.0.0/pdfbox2-layout-1.0.0-javadoc.jar
+2021-09-29 18:50:03,386 [Worker-160: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for com.github.ralfstuckert.pdfbox-layout:pdfbox2-layout:1.0.0
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.github.ralfstuckert.pdfbox-layout:pdfbox2-layout:jar:javadoc:1.0.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-09-29 18:50:12,009 [Worker-160: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 18:50:12,010 [Worker-160: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-29 18:50:12,021 [Worker-160: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 18:50:12,021 [Worker-160: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2021-09-29 18:53:02,225 [Worker-164: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-09-29 18:53:02,407 [Worker-164: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Swiggy:Swiggy:0.0.1-SNAPSHOT @ C:\Users\HELLO\eclipse-workspace\Swiggy\pom.xml.
+2021-09-29 18:53:03,293 [Worker-164: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/messages/maven-metadata.xml
+2021-09-29 18:53:03,578 [Worker-164: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/messages/maven-metadata.xml
+2021-09-29 18:53:03,743 [Worker-164: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/ralfstuckert/pdfbox-layout/pdfbox2-layout/1.0.0/pdfbox2-layout-1.0.0.pom
+2021-09-29 18:53:05,235 [Worker-164: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/com/github/ralfstuckert/pdfbox-layout/pdfbox2-layout/1.0.0/pdfbox2-layout-1.0.0.pom
+2021-09-29 18:53:05,238 [Worker-164: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.ralfstuckert.pdfbox-layout:pdfbox2-layout:jar:1.0.0 is missing, no dependency information available
+2021-09-29 18:53:05,407 [Worker-164: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/ralfstuckert/pdfbox-layout/pdfbox2-layout/1.0.0/pdfbox2-layout-1.0.0.jar
+2021-09-29 18:53:06,489 [Worker-164: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/com/github/ralfstuckert/pdfbox-layout/pdfbox2-layout/1.0.0/pdfbox2-layout-1.0.0.jar
+2021-09-29 18:53:06,842 [Worker-164: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Swiggy/src/main/java
+2021-09-29 18:53:06,843 [Worker-164: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Swiggy/src/main/resources
+2021-09-29 18:53:06,843 [Worker-164: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Swiggy/src/test/java
+2021-09-29 18:53:06,844 [Worker-164: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Swiggy/src/test/resources
+2021-09-29 18:53:07,474 [Worker-164: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2021-09-29 18:53:07,747 [Worker-178: Download sources and javadoc] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.ralfstuckert.pdfbox-layout:pdfbox2-layout:jar:1.0.0 is missing, no dependency information available
+2021-09-29 18:53:08,357 [Worker-178: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/bonigarcia/webdrivermanager/4.2.2/webdrivermanager-4.2.2-sources.jar
+2021-09-29 18:53:08,713 [Worker-178: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/bonigarcia/webdrivermanager/4.2.2/webdrivermanager-4.2.2-sources.jar
+2021-09-29 18:53:08,808 [Worker-178: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.github.bonigarcia:webdrivermanager:4.2.2
+2021-09-29 18:53:09,397 [Worker-178: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/2.8.0/commons-io-2.8.0-sources.jar
+2021-09-29 18:53:10,080 [Worker-178: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/2.8.0/commons-io-2.8.0-sources.jar
+2021-09-29 18:53:10,209 [Worker-178: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-io:commons-io:2.8.0
+2021-09-29 18:53:10,800 [Worker-178: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.11/commons-lang3-3.11-sources.jar
+2021-09-29 18:53:11,778 [Worker-178: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.11/commons-lang3-3.11-sources.jar
+2021-09-29 18:53:11,867 [Worker-178: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-lang3:3.11
+2021-09-29 18:53:12,467 [Worker-178: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/client5/httpclient5/5.0.1/httpclient5-5.0.1-sources.jar
+2021-09-29 18:53:13,410 [Worker-178: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/client5/httpclient5/5.0.1/httpclient5-5.0.1-sources.jar
+2021-09-29 18:53:13,538 [Worker-178: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents.client5:httpclient5:5.0.1
+2021-09-29 18:53:14,110 [Worker-178: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/core5/httpcore5/5.0.1/httpcore5-5.0.1-sources.jar
+2021-09-29 18:53:15,099 [Worker-178: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/core5/httpcore5/5.0.1/httpcore5-5.0.1-sources.jar
+2021-09-29 18:53:15,181 [Worker-178: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents.core5:httpcore5:5.0.1
+2021-09-29 18:53:15,756 [Worker-178: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/core5/httpcore5-h2/5.0.1/httpcore5-h2-5.0.1-sources.jar
+2021-09-29 18:53:16,236 [Worker-178: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/core5/httpcore5-h2/5.0.1/httpcore5-h2-5.0.1-sources.jar
+2021-09-29 18:53:16,291 [Worker-178: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents.core5:httpcore5-h2:5.0.1
+2021-09-29 18:53:16,847 [Worker-178: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/rauschig/jarchivelib/1.1.0/jarchivelib-1.1.0-sources.jar
+2021-09-29 18:53:17,139 [Worker-178: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/rauschig/jarchivelib/1.1.0/jarchivelib-1.1.0-sources.jar
+2021-09-29 18:53:17,314 [Worker-178: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.rauschig:jarchivelib:1.1.0
+2021-09-29 18:56:50,744 [Worker-181: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-09-29 18:56:50,922 [Worker-181: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Swiggy:Swiggy:0.0.1-SNAPSHOT @ C:\Users\HELLO\eclipse-workspace\Swiggy\pom.xml.
+2021-09-29 18:56:51,908 [Worker-181: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/ralfstuckert/pdfbox-layout/pdfbox2-layout/0.8.6/pdfbox2-layout-0.8.6.pom
+2021-09-29 18:56:51,911 [Worker-181: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.ralfstuckert.pdfbox-layout:pdfbox2-layout:jar:0.8.6 is missing, no dependency information available
+2021-09-29 18:56:52,097 [Worker-181: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/messages/maven-metadata.xml
+2021-09-29 18:56:52,259 [Worker-181: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/messages/maven-metadata.xml
+2021-09-29 18:56:52,424 [Worker-181: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/ralfstuckert/pdfbox-layout/pdfbox2-layout/1.0.0/pdfbox2-layout-1.0.0.pom
+2021-09-29 18:56:55,191 [Worker-181: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/com/github/ralfstuckert/pdfbox-layout/pdfbox2-layout/1.0.0/pdfbox2-layout-1.0.0.pom
+2021-09-29 18:56:55,194 [Worker-181: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.ralfstuckert.pdfbox-layout:pdfbox2-layout:jar:1.0.0 is missing, no dependency information available
+2021-09-29 18:56:55,357 [Worker-181: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/ralfstuckert/pdfbox-layout/pdfbox2-layout/0.8.6/pdfbox2-layout-0.8.6.jar
+2021-09-29 18:56:55,691 [Worker-181: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Swiggy/src/main/java
+2021-09-29 18:56:55,691 [Worker-181: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Swiggy/src/main/resources
+2021-09-29 18:56:55,692 [Worker-181: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Swiggy/src/test/java
+2021-09-29 18:56:55,692 [Worker-181: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Swiggy/src/test/resources
+2021-09-29 18:56:55,987 [Worker-181: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2021-09-29 18:56:56,602 [Worker-185: Download sources and javadoc] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.ralfstuckert.pdfbox-layout:pdfbox2-layout:jar:0.8.6 is missing, no dependency information available
+2021-09-29 18:56:56,665 [Worker-185: Download sources and javadoc] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.ralfstuckert.pdfbox-layout:pdfbox2-layout:jar:1.0.0 is missing, no dependency information available
+2021-09-29 18:56:57,401 [Worker-185: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/ralfstuckert/pdfbox-layout/pdfbox2-layout/0.8.6/pdfbox2-layout-0.8.6-sources.jar
+2021-09-29 18:56:57,406 [Worker-185: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for com.github.ralfstuckert.pdfbox-layout:pdfbox2-layout:0.8.6
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.github.ralfstuckert.pdfbox-layout:pdfbox2-layout:jar:sources:0.8.6
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-09-29 18:56:59,068 [Worker-185: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/ralfstuckert/pdfbox-layout/pdfbox2-layout/0.8.6/pdfbox2-layout-0.8.6-javadoc.jar
+2021-09-29 18:56:59,073 [Worker-185: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for com.github.ralfstuckert.pdfbox-layout:pdfbox2-layout:0.8.6
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.github.ralfstuckert.pdfbox-layout:pdfbox2-layout:jar:javadoc:0.8.6
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-09-29 19:02:23,679 [Worker-182: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-09-29 19:02:23,986 [Worker-182: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Swiggy:Swiggy:0.0.1-SNAPSHOT @ C:\Users\HELLO\eclipse-workspace\Swiggy\pom.xml.
+2021-09-29 19:02:24,152 [Worker-182: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.ralfstuckert.pdfbox-layout:pdfbox2-layout:jar:1.0.0 is missing, no dependency information available
+2021-09-29 19:02:24,544 [Worker-182: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Swiggy/src/main/java
+2021-09-29 19:02:24,544 [Worker-182: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Swiggy/src/main/resources
+2021-09-29 19:02:24,545 [Worker-182: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Swiggy/src/test/java
+2021-09-29 19:02:24,545 [Worker-182: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Swiggy/src/test/resources
+2021-09-29 19:02:24,819 [Worker-182: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2021-09-29 19:02:25,405 [Worker-189: Download sources and javadoc] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.ralfstuckert.pdfbox-layout:pdfbox2-layout:jar:1.0.0 is missing, no dependency information available
+2021-09-29 19:02:28,108 [Worker-189: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/apache/poi/poi-ooxml-lite/5.0.0/poi-ooxml-lite-5.0.0-sources.jar
+2021-09-29 19:02:28,118 [Worker-189: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.apache.poi:poi-ooxml-lite:5.0.0
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.poi:poi-ooxml-lite:jar:sources:5.0.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-09-29 19:02:29,546 [Worker-189: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/apache/xmlgraphics/batik-all/1.13/batik-all-1.13-sources.jar
+2021-09-29 19:02:29,555 [Worker-189: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.apache.xmlgraphics:batik-all:1.13
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.xmlgraphics:batik-all:jar:sources:1.13
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-09-29 19:02:31,015 [Worker-189: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/xml-apis/xml-apis-ext/1.3.04/xml-apis-ext-1.3.04-sources.jar
+2021-09-29 19:02:31,023 [Worker-189: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for xml-apis:xml-apis-ext:1.3.04
+org.eclipse.core.runtime.CoreException: Could not resolve artifact xml-apis:xml-apis-ext:jar:sources:1.3.04
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-09-29 19:02:32,433 [Worker-189: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/apache/xmlgraphics/batik-rasterizer-ext/1.13/batik-rasterizer-ext-1.13-sources.jar
+2021-09-29 19:02:32,444 [Worker-189: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.apache.xmlgraphics:batik-rasterizer-ext:1.13
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.xmlgraphics:batik-rasterizer-ext:jar:sources:1.13
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-09-29 19:02:33,812 [Worker-189: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/apache/xmlgraphics/batik-squiggle-ext/1.13/batik-squiggle-ext-1.13-sources.jar
+2021-09-29 19:02:33,825 [Worker-189: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.apache.xmlgraphics:batik-squiggle-ext:1.13
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.xmlgraphics:batik-squiggle-ext:jar:sources:1.13
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-09-29 19:02:34,461 [Worker-189: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/apache/xmlgraphics/batik-squiggle/1.13/batik-squiggle-1.13-sources.jar
+2021-09-29 19:02:34,468 [Worker-189: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.apache.xmlgraphics:batik-squiggle:1.13
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.xmlgraphics:batik-squiggle:jar:sources:1.13
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-09-29 19:02:35,895 [Worker-189: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9-sources.jar
+2021-09-29 19:02:35,907 [Worker-189: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for com.google.code.findbugs:jsr305:1.3.9
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.code.findbugs:jsr305:jar:sources:1.3.9
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-09-29 19:02:37,304 [Worker-189: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/com/github/ralfstuckert/pdfbox-layout/pdfbox2-layout/1.0.0/pdfbox2-layout-1.0.0-sources.jar
+2021-09-29 19:02:37,316 [Worker-189: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for com.github.ralfstuckert.pdfbox-layout:pdfbox2-layout:1.0.0
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.github.ralfstuckert.pdfbox-layout:pdfbox2-layout:jar:sources:1.0.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-09-29 19:02:37,982 [Worker-189: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/apache/poi/poi-ooxml-lite/5.0.0/poi-ooxml-lite-5.0.0-javadoc.jar
+2021-09-29 19:02:37,990 [Worker-189: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.apache.poi:poi-ooxml-lite:5.0.0
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.poi:poi-ooxml-lite:jar:javadoc:5.0.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-09-29 19:02:39,378 [Worker-189: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/apache/xmlgraphics/batik-all/1.13/batik-all-1.13-javadoc.jar
+2021-09-29 19:02:39,390 [Worker-189: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.apache.xmlgraphics:batik-all:1.13
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.xmlgraphics:batik-all:jar:javadoc:1.13
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-09-29 19:02:40,822 [Worker-189: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/xml-apis/xml-apis-ext/1.3.04/xml-apis-ext-1.3.04-javadoc.jar
+2021-09-29 19:02:40,832 [Worker-189: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for xml-apis:xml-apis-ext:1.3.04
+org.eclipse.core.runtime.CoreException: Could not resolve artifact xml-apis:xml-apis-ext:jar:javadoc:1.3.04
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-09-29 19:02:42,203 [Worker-189: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/apache/xmlgraphics/batik-rasterizer-ext/1.13/batik-rasterizer-ext-1.13-javadoc.jar
+2021-09-29 19:02:42,214 [Worker-189: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.apache.xmlgraphics:batik-rasterizer-ext:1.13
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.xmlgraphics:batik-rasterizer-ext:jar:javadoc:1.13
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-09-29 19:02:43,557 [Worker-189: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/apache/xmlgraphics/batik-squiggle-ext/1.13/batik-squiggle-ext-1.13-javadoc.jar
+2021-09-29 19:02:43,566 [Worker-189: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.apache.xmlgraphics:batik-squiggle-ext:1.13
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.xmlgraphics:batik-squiggle-ext:jar:javadoc:1.13
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-09-29 19:02:44,995 [Worker-189: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/apache/xmlgraphics/batik-squiggle/1.13/batik-squiggle-1.13-javadoc.jar
+2021-09-29 19:02:45,005 [Worker-189: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.apache.xmlgraphics:batik-squiggle:1.13
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.xmlgraphics:batik-squiggle:jar:javadoc:1.13
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-09-29 19:02:46,408 [Worker-189: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9-javadoc.jar
+2021-09-29 19:02:46,422 [Worker-189: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for com.google.code.findbugs:jsr305:1.3.9
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.code.findbugs:jsr305:jar:javadoc:1.3.9
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-09-29 19:02:47,903 [Worker-189: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/com/github/ralfstuckert/pdfbox-layout/pdfbox2-layout/1.0.0/pdfbox2-layout-1.0.0-javadoc.jar
+2021-09-29 19:02:47,914 [Worker-189: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for com.github.ralfstuckert.pdfbox-layout:pdfbox2-layout:1.0.0
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.github.ralfstuckert.pdfbox-layout:pdfbox2-layout:jar:javadoc:1.0.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-09-29 19:03:00,444 [Worker-191: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-09-29 19:03:00,618 [Worker-191: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Swiggy:Swiggy:0.0.1-SNAPSHOT @ C:\Users\HELLO\eclipse-workspace\Swiggy\pom.xml.
+2021-09-29 19:03:01,220 [Worker-191: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/com/github/ralfstuckert/pdfbox-layout/pdfbox2-layout/0.8.6/pdfbox2-layout-0.8.6.pom
+2021-09-29 19:03:02,262 [Worker-191: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/apache/pdfbox/pdfbox/2.0.4/pdfbox-2.0.4.pom
+2021-09-29 19:03:03,187 [Worker-191: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/pdfbox/pdfbox/2.0.4/pdfbox-2.0.4.pom
+2021-09-29 19:03:03,369 [Worker-191: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/pdfbox/pdfbox/2.0.4/pdfbox-2.0.4.pom
+2021-09-29 19:03:04,411 [Worker-191: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/apache/pdfbox/pdfbox-parent/2.0.4/pdfbox-parent-2.0.4.pom
+2021-09-29 19:03:04,559 [Worker-191: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/pdfbox/pdfbox-parent/2.0.4/pdfbox-parent-2.0.4.pom
+2021-09-29 19:03:04,754 [Worker-191: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/pdfbox/pdfbox-parent/2.0.4/pdfbox-parent-2.0.4.pom
+2021-09-29 19:03:05,823 [Worker-191: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/apache/pdfbox/fontbox/2.0.4/fontbox-2.0.4.pom
+2021-09-29 19:03:05,979 [Worker-191: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/pdfbox/fontbox/2.0.4/fontbox-2.0.4.pom
+2021-09-29 19:03:06,145 [Worker-191: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/pdfbox/fontbox/2.0.4/fontbox-2.0.4.pom
+2021-09-29 19:03:06,352 [DefaultMetadataResolver-2-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/io/cucumber/messages/maven-metadata.xml
+2021-09-29 19:03:06,376 [DefaultMetadataResolver-2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/messages/maven-metadata.xml
+2021-09-29 19:03:06,530 [DefaultMetadataResolver-2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/messages/maven-metadata.xml
+2021-09-29 19:03:06,912 [Worker-191: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/com/github/ralfstuckert/pdfbox-layout/pdfbox2-layout/1.0.0/pdfbox2-layout-1.0.0.pom
+2021-09-29 19:03:07,056 [Worker-191: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/ralfstuckert/pdfbox-layout/pdfbox2-layout/1.0.0/pdfbox2-layout-1.0.0.pom
+2021-09-29 19:03:07,059 [Worker-191: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.ralfstuckert.pdfbox-layout:pdfbox2-layout:jar:1.0.0 is missing, no dependency information available
+2021-09-29 19:03:07,175 [AetherRepositoryConnector-jitpack.io-3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/apache/pdfbox/fontbox/2.0.4/fontbox-2.0.4.jar
+2021-09-29 19:03:07,262 [AetherRepositoryConnector-jitpack.io-3-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/apache/pdfbox/pdfbox/2.0.4/pdfbox-2.0.4.jar
+2021-09-29 19:03:07,425 [AetherRepositoryConnector-repo.maven.apache.org-4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/pdfbox/fontbox/2.0.4/fontbox-2.0.4.jar
+2021-09-29 19:03:07,582 [AetherRepositoryConnector-repo.maven.apache.org-4-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/pdfbox/pdfbox/2.0.4/pdfbox-2.0.4.jar
+2021-09-29 19:03:09,284 [AetherRepositoryConnector-repo.maven.apache.org-4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/pdfbox/fontbox/2.0.4/fontbox-2.0.4.jar
+2021-09-29 19:03:09,475 [AetherRepositoryConnector-repo.maven.apache.org-4-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/pdfbox/pdfbox/2.0.4/pdfbox-2.0.4.jar
+2021-09-29 19:03:09,861 [Worker-191: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Swiggy/src/main/java
+2021-09-29 19:03:09,862 [Worker-191: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Swiggy/src/main/resources
+2021-09-29 19:03:09,862 [Worker-191: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Swiggy/src/test/java
+2021-09-29 19:03:09,862 [Worker-191: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Swiggy/src/test/resources
+2021-09-29 19:03:10,140 [Worker-191: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 9 sec
+2021-09-29 19:03:10,823 [Worker-191: Download sources and javadoc] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.ralfstuckert.pdfbox-layout:pdfbox2-layout:jar:1.0.0 is missing, no dependency information available
+2021-09-29 19:03:11,237 [Worker-191: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jitpack.io/com/github/ralfstuckert/pdfbox-layout/pdfbox2-layout/0.8.6/pdfbox2-layout-0.8.6-sources.jar
+2021-09-29 19:03:11,496 [Worker-191: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/com/github/ralfstuckert/pdfbox-layout/pdfbox2-layout/0.8.6/pdfbox2-layout-0.8.6-sources.jar
+2021-09-29 19:03:11,582 [Worker-191: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.ralfstuckert.pdfbox-layout:pdfbox2-layout:0.8.6
+2021-09-29 19:03:12,221 [Worker-191: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/apache/pdfbox/pdfbox/2.0.4/pdfbox-2.0.4-sources.jar
+2021-09-29 19:03:12,807 [Worker-191: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/pdfbox/pdfbox/2.0.4/pdfbox-2.0.4-sources.jar
+2021-09-29 19:03:14,459 [Worker-191: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/pdfbox/pdfbox/2.0.4/pdfbox-2.0.4-sources.jar
+2021-09-29 19:03:14,522 [Worker-191: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.pdfbox:pdfbox:2.0.4
+2021-09-29 19:03:15,906 [Worker-191: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/apache/pdfbox/fontbox/2.0.4/fontbox-2.0.4-sources.jar
+2021-09-29 19:03:16,505 [Worker-191: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/pdfbox/fontbox/2.0.4/fontbox-2.0.4-sources.jar
+2021-09-29 19:03:17,811 [Worker-191: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/pdfbox/fontbox/2.0.4/fontbox-2.0.4-sources.jar
+2021-09-29 19:03:17,935 [Worker-191: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.pdfbox:fontbox:2.0.4
+2021-09-29 19:03:39,691 [Worker-190: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 19:03:39,692 [Worker-190: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-29 19:03:39,702 [Worker-190: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 19:03:39,702 [Worker-190: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2021-09-29 19:12:53,716 [Worker-194: Launching TestRunner] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Swiggy:Swiggy:0.0.1-SNAPSHOT @ C:\Users\HELLO\eclipse-workspace\Swiggy\pom.xml.
+2021-09-29 19:12:53,823 [Worker-194: Launching TestRunner] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.ralfstuckert.pdfbox-layout:pdfbox2-layout:jar:1.0.0 is missing, no dependency information available
+2021-09-29 19:12:54,246 [Worker-194: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 19:12:54,250 [Worker-194: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 19:12:54,252 [Worker-194: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 19:12:54,253 [Worker-194: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 19:12:54,729 [Worker-194: Launching TestRunner] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.ralfstuckert.pdfbox-layout:pdfbox2-layout:jar:1.0.0 is missing, no dependency information available
+2021-09-29 19:12:56,672 [Worker-195: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/com/vimalselvam/cucumber-extentsreport/3.1.1/cucumber-extentsreport-3.1.1-sources.jar
+2021-09-29 19:12:57,552 [Worker-195: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/vimalselvam/cucumber-extentsreport/3.1.1/cucumber-extentsreport-3.1.1-sources.jar
+2021-09-29 19:12:57,744 [Worker-195: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/vimalselvam/cucumber-extentsreport/3.1.1/cucumber-extentsreport-3.1.1-sources.jar
+2021-09-29 19:12:57,829 [Worker-195: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.vimalselvam:cucumber-extentsreport:3.1.1
+2021-09-29 20:02:50,989 [Worker-194: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 20:02:50,991 [Worker-194: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-29 20:02:51,002 [Worker-194: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 20:02:51,004 [Worker-194: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2021-09-29 21:52:45,896 [Worker-220: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-09-29 21:52:46,224 [Worker-220: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Swiggy:Swiggy:0.0.1-SNAPSHOT @ C:\Users\HELLO\eclipse-workspace\Swiggy\pom.xml.
+2021-09-29 21:52:50,668 [DefaultMetadataResolver-5-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/io/cucumber/messages/maven-metadata.xml
+2021-09-29 21:53:01,315 [DefaultMetadataResolver-5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/messages/maven-metadata.xml
+2021-09-29 21:53:02,301 [DefaultMetadataResolver-5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/messages/maven-metadata.xml
+2021-09-29 21:53:02,895 [Worker-220: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/com/github/ralfstuckert/pdfbox-layout/pdfbox2-layout/1.0.0/pdfbox2-layout-1.0.0.pom
+2021-09-29 21:53:03,046 [Worker-220: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/ralfstuckert/pdfbox-layout/pdfbox2-layout/1.0.0/pdfbox2-layout-1.0.0.pom
+2021-09-29 21:53:03,048 [Worker-220: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.ralfstuckert.pdfbox-layout:pdfbox2-layout:jar:1.0.0 is missing, no dependency information available
+2021-09-29 21:53:03,566 [Worker-220: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Swiggy/src/main/java
+2021-09-29 21:53:03,566 [Worker-220: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Swiggy/src/main/resources
+2021-09-29 21:53:03,567 [Worker-220: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Swiggy/src/test/java
+2021-09-29 21:53:03,567 [Worker-220: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Swiggy/src/test/resources
+2021-09-29 21:53:04,221 [Worker-220: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 18 sec
+2021-09-29 22:11:56,729 [Worker-232: Launching TestRunner] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.ralfstuckert.pdfbox-layout:pdfbox2-layout:jar:1.0.0 is missing, no dependency information available
+2021-09-29 22:11:56,766 [Worker-232: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 22:11:56,767 [Worker-232: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-29 22:11:56,775 [Worker-232: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 22:11:56,775 [Worker-232: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2021-09-29 22:22:23,078 [Worker-238: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 22:22:23,080 [Worker-238: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 22:22:23,081 [Worker-238: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 22:22:23,082 [Worker-238: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-09-29 22:24:39,712 [Worker-241: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 22:24:39,712 [Worker-241: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 22:24:39,714 [Worker-241: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 22:24:39,715 [Worker-241: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-09-29 22:32:41,912 [Worker-246: Launching HomePage.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 22:32:41,912 [Worker-246: Launching HomePage.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 22:32:41,914 [Worker-246: Launching HomePage.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 22:32:41,916 [Worker-246: Launching HomePage.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-09-29 22:48:53,795 [Worker-253: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 22:48:53,796 [Worker-253: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 22:48:53,799 [Worker-253: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 22:48:53,800 [Worker-253: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-09-29 22:49:43,004 [Worker-253: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 22:49:43,005 [Worker-253: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 22:49:43,006 [Worker-253: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 22:49:43,007 [Worker-253: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-09-30 11:05:06,861 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-09-30 11:35:52,816 [Worker-25: Launching TestRunner] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.ralfstuckert.pdfbox-layout:pdfbox2-layout:jar:1.0.0 is missing, no dependency information available
+2021-09-30 11:35:53,464 [Worker-25: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 11:35:53,472 [Worker-25: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-30 11:35:53,491 [Worker-25: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 11:35:53,491 [Worker-25: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-09-30 11:43:17,596 [Worker-27: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 11:43:17,598 [Worker-27: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-30 11:43:17,599 [Worker-27: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 11:43:17,600 [Worker-27: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-30 11:46:51,852 [Worker-25: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-30 11:46:51,854 [Worker-25: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-30 11:46:51,860 [Worker-25: Launching TestRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.

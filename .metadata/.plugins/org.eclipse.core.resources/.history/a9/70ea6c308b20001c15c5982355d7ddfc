@@ -1,0 +1,7 @@
+Feature: Swiggy DashBoard Validation
+
+Scenario: Login Button Validation
+    Given user lauanch the swiggy application "url"
+    And user valiadtes the page tittle
+   Then user click on login button
+    And login page should be displayed 

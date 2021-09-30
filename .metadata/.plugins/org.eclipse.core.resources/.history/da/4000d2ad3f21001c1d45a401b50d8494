@@ -1,0 +1,21 @@
+package com.swiggy.reports;
+
+import com.aventstack.extentreports.ExtentReports;
+import com.aventstack.extentreports.ExtentTest;
+
+public class ExtentTestImp {
+	
+	static ExtentReports extReoObj = null;
+	
+	public static ExtentReports setReporter(String path) {
+		if(extReoObj==null) {
+			extReoObj= new ExtentReports();
+		}
+		return extReoObj;
+	}
+	public static ExtentTest getReporter() {
+		
+		return extReoObj;
+	}
+
+}
