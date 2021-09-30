@@ -11,7 +11,7 @@ import org.openqa.selenium.support.PageFactory;
 
 
 public class DashBoard{
-	public static Logger log= LogManager.getLogger(DashBoard.class.getName());
+	
 	WebDriver driverDB;
 	
 	
@@ -41,36 +41,36 @@ public class DashBoard{
 	
 	public void click_login_Button() {
 		logInButton.click();
-		log.info("click on login button");
+		
 		
 	}
 	
 	public void click_singUp_button() {
 		signUpButton.click();
-		log.info("cliked on signed on button");
+		
 	}
 	
 	public String signUp_tittle() {
 		String tittle = signUp_Tittle.getText();
-		log.info("tittle is fetched");
+		
 		return tittle;
 		}
 	
 	
 	public void click_findFood_button() {
 		findFood.click();
-		log.info("clicked on find food button");
+		
 	}
 	
 	public String bodytext() {
 		String text = body_text.getText();
-		log.info("tittle is fetched");
+		
 		return text;
 	}
 	
 	public void click_locateMe_button() {
 		locateMe.click();
-		log.info("clicked on locate me button");
+		
 	}
 
 

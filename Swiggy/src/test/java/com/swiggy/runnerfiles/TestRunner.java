@@ -13,7 +13,8 @@ import io.cucumber.testng.CucumberOptions;
         features = "C:\\Users\\HELLO\\eclipse-workspace\\Swiggy\\src\\test\\resources\\Features",
         glue = "com.swiggy.stepdefination",
        // tags = "@SanityTest",
-        plugin = {"pretty","html:target/cucumber-report.html"}
+        plugin = {"pretty","html:target/cucumber-report.html",
+        				 "json:target/cucumber-reports/Cucumber.json"}
 )
 public class TestRunner extends AbstractTestNGCucumberTests{
 	

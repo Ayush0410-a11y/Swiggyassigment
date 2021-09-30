@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-09-30T13:01:08 IST" name="Default suite" finished-at="2021-09-30T13:01:56 IST" duration-ms="47750">
+  <suite name="Default suite" duration-ms="50467" started-at="2021-09-30T16:41:58 IST" finished-at="2021-09-30T16:42:48 IST">
     <groups>
       <group name="cucumber">
-        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.swiggy.runnerfiles.TestRunner@3b0fe47a]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.swiggy.runnerfiles.TestRunner@51b279c9]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
       </group> <!-- cucumber -->
     </groups>
-    <test started-at="2021-09-30T13:01:08 IST" name="Default test" finished-at="2021-09-30T13:01:56 IST" duration-ms="47750">
+    <test name="Default test" duration-ms="50467" started-at="2021-09-30T16:41:58 IST" finished-at="2021-09-30T16:42:48 IST">
       <class name="com.swiggy.runnerfiles.TestRunner">
-        <test-method is-config="true" signature="extentreportStart()[pri:0, instance:com.swiggy.runnerfiles.TestRunner@3b0fe47a]" started-at="2021-09-30T13:01:08 IST" name="extentreportStart" finished-at="2021-09-30T13:01:08 IST" duration-ms="257" status="PASS">
+        <test-method status="PASS" signature="extentreportStart()[pri:0, instance:com.swiggy.runnerfiles.TestRunner@51b279c9]" name="extentreportStart" is-config="true" duration-ms="142" started-at="2021-09-30T16:41:58 IST" finished-at="2021-09-30T16:41:58 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- extentreportStart -->
-        <test-method is-config="true" signature="setUpClass()[pri:0, instance:com.swiggy.runnerfiles.TestRunner@3b0fe47a]" started-at="2021-09-30T13:01:08 IST" name="setUpClass" finished-at="2021-09-30T13:01:09 IST" duration-ms="554" status="PASS">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.swiggy.runnerfiles.TestRunner@51b279c9]" name="setUpClass" is-config="true" duration-ms="484" started-at="2021-09-30T16:41:58 IST" finished-at="2021-09-30T16:41:58 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.swiggy.runnerfiles.TestRunner@3b0fe47a]" started-at="2021-09-30T13:01:09 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-09-30T13:01:15 IST" duration-ms="6168" status="PASS">
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.swiggy.runnerfiles.TestRunner@51b279c9]" name="runScenario" duration-ms="6409" started-at="2021-09-30T16:41:58 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-09-30T16:42:05 IST">
           <params>
             <param index="0">
               <value>
@@ -34,7 +34,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.swiggy.runnerfiles.TestRunner@3b0fe47a]" started-at="2021-09-30T13:01:15 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-09-30T13:01:19 IST" duration-ms="4073" status="PASS">
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.swiggy.runnerfiles.TestRunner@51b279c9]" name="runScenario" duration-ms="4854" started-at="2021-09-30T16:42:05 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-09-30T16:42:10 IST">
           <params>
             <param index="0">
               <value>
@@ -50,7 +50,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.swiggy.runnerfiles.TestRunner@3b0fe47a]" started-at="2021-09-30T13:01:19 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-09-30T13:01:23 IST" duration-ms="4084" status="PASS">
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.swiggy.runnerfiles.TestRunner@51b279c9]" name="runScenario" duration-ms="3919" started-at="2021-09-30T16:42:10 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-09-30T16:42:14 IST">
           <params>
             <param index="0">
               <value>
@@ -66,7 +66,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.swiggy.runnerfiles.TestRunner@3b0fe47a]" started-at="2021-09-30T13:01:23 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-09-30T13:01:32 IST" duration-ms="9007" status="PASS">
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.swiggy.runnerfiles.TestRunner@51b279c9]" name="runScenario" duration-ms="10085" started-at="2021-09-30T16:42:14 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-09-30T16:42:24 IST">
           <params>
             <param index="0">
               <value>
@@ -82,7 +82,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.swiggy.runnerfiles.TestRunner@3b0fe47a]" started-at="2021-09-30T13:01:32 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-09-30T13:01:45 IST" duration-ms="12726" status="PASS">
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.swiggy.runnerfiles.TestRunner@51b279c9]" name="runScenario" duration-ms="13150" started-at="2021-09-30T16:42:24 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-09-30T16:42:37 IST">
           <params>
             <param index="0">
               <value>
@@ -98,7 +98,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.swiggy.runnerfiles.TestRunner@3b0fe47a]" started-at="2021-09-30T13:01:45 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-09-30T13:01:56 IST" duration-ms="11022" status="PASS">
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.swiggy.runnerfiles.TestRunner@51b279c9]" name="runScenario" duration-ms="11437" started-at="2021-09-30T16:42:37 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-09-30T16:42:48 IST">
           <params>
             <param index="0">
               <value>
@@ -114,11 +114,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.swiggy.runnerfiles.TestRunner@3b0fe47a]" started-at="2021-09-30T13:01:56 IST" name="tearDownClass" finished-at="2021-09-30T13:01:56 IST" duration-ms="55" status="PASS">
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.swiggy.runnerfiles.TestRunner@51b279c9]" name="tearDownClass" is-config="true" duration-ms="84" started-at="2021-09-30T16:42:48 IST" finished-at="2021-09-30T16:42:48 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
-        <test-method is-config="true" signature="extentreportflush()[pri:0, instance:com.swiggy.runnerfiles.TestRunner@3b0fe47a]" started-at="2021-09-30T13:01:56 IST" name="extentreportflush" finished-at="2021-09-30T13:01:56 IST" duration-ms="285" status="PASS">
+        <test-method status="PASS" signature="extentreportflush()[pri:0, instance:com.swiggy.runnerfiles.TestRunner@51b279c9]" name="extentreportflush" is-config="true" duration-ms="212" started-at="2021-09-30T16:42:48 IST" finished-at="2021-09-30T16:42:49 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- extentreportflush -->
